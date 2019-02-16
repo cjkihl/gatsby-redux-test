@@ -3,7 +3,11 @@
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
+  <a href="https://redux.js.org">
+    <img alt="Redux" src="https://redux.js.org/img/redux.svg" width="60" />
+  </a>
 </p>
+
 <h1 align="center">
   Gatsby Minimal Redux starter
 </h1>
